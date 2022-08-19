@@ -1,2 +1,2 @@
-# FlowChart
-Flowcharts for UniversApp.tech 
+# THIS IS A UNIVERSAPP PROJECT
+Please don't use it
